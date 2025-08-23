@@ -2,7 +2,9 @@
 
 Türkiye'deki şarj istasyonlarını gösteren PWA uygulaması.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sarjistasyonu.netlify.app/#/)
+<a href="https://sarjistasyonu.netlify.app/#/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-brightgreen" alt="Live Demo">
+</a>
 
 
 ## Install the dependencies
