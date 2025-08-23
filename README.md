@@ -1,6 +1,9 @@
-# clp (clp)
+# Şarj İstasyonu
 
-clp
+Türkiye'deki şarj istasyonlarını gösteren PWA uygulaması.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sarjistasyonu.netlify.app/#/)
+
 
 ## Install the dependencies
 ```bash
@@ -18,6 +21,11 @@ quasar dev
 ### Build the app for production
 ```bash
 quasar build
+```
+
+### Build the app for pwa production
+```bash
+quasar -m build pwa
 ```
 
 ### Customize the configuration
