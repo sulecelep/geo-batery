@@ -1,0 +1,26 @@
+{
+  "name": "Şarj İstasyonu",
+  "short_name": "Şarj İstasyonu",
+  "description": "Şarj İstasyonu Uygulaması",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#027be3",
+  "icons": [
+    {
+      "src": "icons/charger-128.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/charger-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/charger-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
